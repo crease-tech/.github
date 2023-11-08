@@ -1,4 +1,4 @@
-<img src="https://github.com/crease-tech/.github/blob/main/profile/img/logo.png" width="75px">
+<img src="https://github.com/crease-tech/.github/blob/main/profile/img/logo.png" width="40px">
 
 # [.github](https://github.com/crease-tech/.github)
 
